@@ -146,7 +146,7 @@ If a user mentions:
 ## 👨‍💻 Authors
 
 - **Mohammed Saad Fazal**  
-- [Mohammed Kaifulla Kazim]([https://github.com/kaifulla-kazim])
+- [Mohammed Kaifulla Kazim](https://github.com/kaifulla-kazim)
 
 
 ---
